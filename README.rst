@@ -42,6 +42,5 @@ To enable Alpha Slider in your code use function:
 Screens
 =======
 
-* .. image:: https://github.com/attenzione/android-ColorPickerPreference/raw/master/screen_1.png
+* .. image:: https://raw.githubusercontent.com/mariozawa/android-ColorPickerPreference-master/master/screen1.png
 
-* .. image:: https://github.com/attenzione/android-ColorPickerPreference/raw/master/screen_2.png
